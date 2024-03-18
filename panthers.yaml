@@ -2,7 +2,11 @@ team: Cheetas
 
 manager: Laura
 
+<<<<<<< HEAD
 coach: Shirley
+=======
+coach : Raymond
+>>>>>>> 2ee73d1 (Edit Panthers)
 
 members:
 - Ryan
